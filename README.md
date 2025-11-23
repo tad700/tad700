@@ -13,11 +13,11 @@ I enjoy playing guitar, working out, and reading books
     <img src="https://skillicons.dev/icons?i=linkedin" height="36">
   </a>
 </p>
-## Back-end
+<h2 align="center">>## Back-end</h2
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring" height="36">
 </p>
-## Databases
+<h2 align="center">## Databases</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=hibernate,postgres" height="36">
 </p>
@@ -25,7 +25,7 @@ I enjoy playing guitar, working out, and reading books
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" height="36">
 </p>
-## Tools and IDEs I like to use
+<h2 align="center">## Tools and IDEs I like to use</h2
 
 | Tools | IDEs |
 |-------|------|
